@@ -46,6 +46,7 @@ namespace starz
                 g.FillEllipse(drawBrush, xcoord, ycoord, size, size);
 
                 w++;
+                // this isn os adsfjkal df
             }
         }
     }
